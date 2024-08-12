@@ -1,5 +1,7 @@
 # Sheep age estimation with NIM
 
+![Thumbnail](assets/thumbnail.png 'Thumbnail')
+
 ## Running the Jupyter Notebook on Google Colaboratory
 
 To run the Jupyter Notebook in this folder on Google Colaboratory and make use of the sample data for testing, please follow the steps below:
